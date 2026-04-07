@@ -1,0 +1,12 @@
+# Windows/Visual Studio junk
+*.exe
+*.obj
+*.pdb
+.vs/
+Debug/
+Release/
+x64/
+
+# Linux/CS50 Codespace junk
+a.out
+*.o
